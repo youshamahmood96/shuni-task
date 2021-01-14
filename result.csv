@@ -1,0 +1,9 @@
+"Node1","Node2","Weight"
+"Kabori","Bobita",2
+"Kabori","Shabana",2
+"Bobita","Rajjak",1
+"Shabana","Ilias",2
+"Shabana","Kabori",1
+"Rajjak","Kabori",1
+"Ilias","Shabana",1
+"Ilias","Rajjak",1
