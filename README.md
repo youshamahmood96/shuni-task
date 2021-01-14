@@ -1,12 +1,19 @@
 # Challenge
 A challenge completed using graph data structure and breadth first search algorithm<br/>
 
-## getting started
-Run the follwoing commands to run this in your local machine:
+## Getting started
+
+Basic Requirements : You need to have node installed in your local machine
+
+For Git bash:
+
+Run the following commands to run this in your local machine:
 
 ` git clone https://github.com/youshamahmood96/task-server.git `
 
 ` npm install `
+
+Then run ` node index.js ` to run the application
 
 ## Approach
 - I loaded data from the given csv file using an npm package.
@@ -23,4 +30,5 @@ Run the follwoing commands to run this in your local machine:
 ## Limitations
 - This algorithm has a time complexity of 0(n^2)
 - It's space complexity is also 0(n^2)
+- The searching algorithm is not very fast. Use of BFS would be better.
 
